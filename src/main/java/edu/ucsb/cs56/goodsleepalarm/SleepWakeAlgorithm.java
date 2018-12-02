@@ -2,7 +2,10 @@ package edu.ucsb.cs56.goodsleepalarm ;
 import java.util.Calendar ;
 
 public class SleepWakeAlgorithm {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 01e485d46338084717ac86698fbb6c2b11816ebf
     private static int sleepLen = 8 * 60 ;  // for now prioritize length of sleep over everything else
     private static int sleepAfter = 60 ;
     private static int wakeBefore = 3 * 60 ;  //prioritized over sleepAfter  
